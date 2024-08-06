@@ -1,11 +1,11 @@
 # PowerBI-Dashboard
 
 
-# Sales Page
+## Sales Page
 (assets/sales_page.png)
 
-# Customer Page
+## Customer Page
 (assets/customer_page.png)
 
-# Supplier Page
+## Supplier Page
 (assets/supplier_page.png)

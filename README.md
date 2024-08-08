@@ -1,6 +1,6 @@
 # Amazon dashboard
 
-The goal of the project was to create a dashboard that vizualizes sales data for a company using Power BI.
+The goal of the project was to create a dashboard that visualizes sales data for a company using Power BI. 
 
 ## Process
 ### Database modelling
